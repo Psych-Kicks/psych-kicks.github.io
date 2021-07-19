@@ -1,0 +1,17 @@
+- title: Home
+  url: /
+- title: About
+  url: /about/
+- title: Penetration Testing
+  url: /penetration_testing/
+- title: Write Up
+  url: /write_up/
+- title: Commands
+  url: /commands/
+- title: Cheat Sheet
+  url: /cheat_sheet/
+  - title: test
+  url: /cheat_sheet/test/
+- title: Archive
+  url: /archive/
+

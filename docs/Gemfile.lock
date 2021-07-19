@@ -275,6 +275,7 @@ DEPENDENCIES
   jekyll-remote-theme
   jekyll-sass-converter
   mercenary
+  minima (~> 2.5)
   terminal-table
   tzinfo (~> 1.2)
   tzinfo-data
