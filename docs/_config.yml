@@ -45,6 +45,7 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 # exclude:
+   - assets/css/open-color.css
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
