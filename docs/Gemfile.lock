@@ -272,9 +272,9 @@ DEPENDENCIES
   github-pages (~> 215)
   i18n
   jekyll-feed (~> 0.12)
+  jekyll-remote-theme
   jekyll-sass-converter
   mercenary
-  minima (~> 2.5)
   terminal-table
   tzinfo (~> 1.2)
   tzinfo-data
